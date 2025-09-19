@@ -1,4 +1,4 @@
-💡 About the Project
+#💡 About the Project
 
 This repository was created as part of a practical assignment for a micro-finance startup that aims to empower and provide opportunities for low-income individuals.
 As part of the team’s gradual transition from Subversion (SVN) to Git, this repository hosts a sample script for calculating simple interest.
